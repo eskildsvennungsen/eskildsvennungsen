@@ -1,6 +1,6 @@
-# Hi 👋, I'm Eskild
+### Hey 👋, I'm Eskild
+* Currently I'm a fulltime computer engineer student at the University Of Sout-East Norway
 
-## Computer engineering student from Norway
 
 <!---
 eskildsvennungsen/eskildsvennungsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
