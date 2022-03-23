@@ -1,5 +1,5 @@
 ### Hey 👋, I'm Eskild
-* Currently I'm a fulltime computer engineer student at the University Of Sout-East Norway
+* Currently I'm a fulltime computer engineer student at the University Of South-East Norway
 * Passionate about backend development
 * Working on my C++ skills
 
